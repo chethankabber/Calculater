@@ -1,0 +1,28 @@
+.inputwarp{
+    width: 100%;
+    
+    background-color: rgb(233, 233, 233);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    
+
+.result{
+    color: gray;
+    flex: 1;
+    font-size: 22px;
+    font-weight: bold;
+}
+}
+
+.text{
+    color: gray;
+    flex:1;
+    font-size: 18px;
+   
+}
